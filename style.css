@@ -1,0 +1,15 @@
+body {
+  background: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggh4SoxSWWVMYbYYzqPHvno0W3RUpn9eOCueTfr8vJyd8pbzTXM671lA2uUjeLYvoNWkHwyrQnwx03O8BM3vmK6_THzBIYMYEB1fSceEwchpyl3DJq1tXM2NLmLPui_BD-moIty6nnVavTelr979xdRJyu3lkjiJyka6iyAatnKRqFBAsByUlYH98/w640-h360/Deus%20%C3%A9%20bom%20e%20o%20seu%20amor%20dura%20para%20sempre%20Desktop%20Wallpaper.png")
+    no-repeat center center fixed;
+  background-size: cover;
+  color: #333;
+  margin: 0;
+  padding: 10px;
+}
+
+p {
+  font-family: "Roboto", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-size: 1.2em;
+}
